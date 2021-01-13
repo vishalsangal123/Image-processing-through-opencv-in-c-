@@ -1,4 +1,4 @@
-# Image-processing-through-open cv-in-c++-
+# Image-processing-in-c++-through-open-cv-
 This repository contains c++ code that can rotate an image according to the angle given by the user .This is a Project Of Open CV in C++ through which one can rotate the image at a particular angle.<br/>
 This project consists of following configurations and softwares:<br/>
 1: Visual Studio Code<br/>
